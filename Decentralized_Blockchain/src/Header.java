@@ -1,4 +1,6 @@
-public class Header {
+import java.io.Serializable;
+
+public class Header implements Serializable {
 
     private int version;
     private String previousHash;

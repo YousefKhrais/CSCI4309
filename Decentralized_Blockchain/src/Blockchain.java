@@ -40,6 +40,8 @@ public class Blockchain {
         block.setHash(proof);
         chain.add(block);
 
+        Utils.getInstance().broadcastBlock(block);
+
         return true;
     }
 
