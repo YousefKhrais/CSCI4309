@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSCI4309.iml" filepath="$PROJECT_DIR$/CSCI4309.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Centralized Blockchain/Centralized Blockchain.iml" filepath="$PROJECT_DIR$/Centralized Blockchain/Centralized Blockchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decentralized_Blockchain/Decentralized_Blockchain.iml" filepath="$PROJECT_DIR$/Decentralized_Blockchain/Decentralized_Blockchain.iml" />
     </modules>
   </component>
 </project>
